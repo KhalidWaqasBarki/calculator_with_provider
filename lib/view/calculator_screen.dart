@@ -106,7 +106,7 @@ class HomeScreen extends StatelessWidget {
                         },
                       ),
                       MyButton(
-                        title: '0',
+                        title: '9',
                         onPress: () {
                           calculatorProvider.appendInput('0');
                         },
